@@ -23,5 +23,8 @@ while True:
     all_commits.extend(data)
     page+=1
 
+print(f"Total commits fetched: {len(all_commits)}")
 
-print(f"Fetched {len(all_commits)} commits")
+import json
+with open('commits.json', 'w') as f:
+    json.dump(all_commits,f,indent=4)

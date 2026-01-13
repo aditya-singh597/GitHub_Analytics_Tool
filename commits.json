@@ -1,0 +1,288 @@
+[
+    {
+        "sha": "042dc4909890cf800e1d57afc712dea1ffb11fc1",
+        "node_id": "C_kwDOQ444ZdoAKDA0MmRjNDkwOTg5MGNmODAwZTFkNTdhZmM3MTJkZWExZmZiMTFmYzE",
+        "commit": {
+            "author": {
+                "name": "Aditya Singh",
+                "email": "adityasinghparmar60@gmail.com",
+                "date": "2026-01-13T15:45:15Z"
+            },
+            "committer": {
+                "name": "Aditya Singh",
+                "email": "adityasinghparmar60@gmail.com",
+                "date": "2026-01-13T15:45:15Z"
+            },
+            "message": "Deleted Token.env file to remove sensitive information.",
+            "tree": {
+                "sha": "bac407070ceff2b8efcb38f6ca01b960255a11df",
+                "url": "https://api.github.com/repos/aditya-singh597/GitHub_Analytics_Tool/git/trees/bac407070ceff2b8efcb38f6ca01b960255a11df"
+            },
+            "url": "https://api.github.com/repos/aditya-singh597/GitHub_Analytics_Tool/git/commits/042dc4909890cf800e1d57afc712dea1ffb11fc1",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null,
+                "verified_at": null
+            }
+        },
+        "url": "https://api.github.com/repos/aditya-singh597/GitHub_Analytics_Tool/commits/042dc4909890cf800e1d57afc712dea1ffb11fc1",
+        "html_url": "https://github.com/aditya-singh597/GitHub_Analytics_Tool/commit/042dc4909890cf800e1d57afc712dea1ffb11fc1",
+        "comments_url": "https://api.github.com/repos/aditya-singh597/GitHub_Analytics_Tool/commits/042dc4909890cf800e1d57afc712dea1ffb11fc1/comments",
+        "author": null,
+        "committer": null,
+        "parents": [
+            {
+                "sha": "c90b87b564065c987b1ac69d8001fe2094f1b27f",
+                "url": "https://api.github.com/repos/aditya-singh597/GitHub_Analytics_Tool/commits/c90b87b564065c987b1ac69d8001fe2094f1b27f",
+                "html_url": "https://github.com/aditya-singh597/GitHub_Analytics_Tool/commit/c90b87b564065c987b1ac69d8001fe2094f1b27f"
+            }
+        ]
+    },
+    {
+        "sha": "c90b87b564065c987b1ac69d8001fe2094f1b27f",
+        "node_id": "C_kwDOQ444ZdoAKGM5MGI4N2I1NjQwNjVjOTg3YjFhYzY5ZDgwMDFmZTIwOTRmMWIyN2Y",
+        "commit": {
+            "author": {
+                "name": "Aditya Singh",
+                "email": "adityasinghparmar60@gmail.com",
+                "date": "2026-01-13T15:41:12Z"
+            },
+            "committer": {
+                "name": "Aditya Singh",
+                "email": "adityasinghparmar60@gmail.com",
+                "date": "2026-01-13T15:41:12Z"
+            },
+            "message": "Added API Calling",
+            "tree": {
+                "sha": "ebf0d5261c0408e362f613066bb9b9e465ab8360",
+                "url": "https://api.github.com/repos/aditya-singh597/GitHub_Analytics_Tool/git/trees/ebf0d5261c0408e362f613066bb9b9e465ab8360"
+            },
+            "url": "https://api.github.com/repos/aditya-singh597/GitHub_Analytics_Tool/git/commits/c90b87b564065c987b1ac69d8001fe2094f1b27f",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null,
+                "verified_at": null
+            }
+        },
+        "url": "https://api.github.com/repos/aditya-singh597/GitHub_Analytics_Tool/commits/c90b87b564065c987b1ac69d8001fe2094f1b27f",
+        "html_url": "https://github.com/aditya-singh597/GitHub_Analytics_Tool/commit/c90b87b564065c987b1ac69d8001fe2094f1b27f",
+        "comments_url": "https://api.github.com/repos/aditya-singh597/GitHub_Analytics_Tool/commits/c90b87b564065c987b1ac69d8001fe2094f1b27f/comments",
+        "author": null,
+        "committer": null,
+        "parents": [
+            {
+                "sha": "29b43d4e855ee46eb66fd2536fee710d84871ff1",
+                "url": "https://api.github.com/repos/aditya-singh597/GitHub_Analytics_Tool/commits/29b43d4e855ee46eb66fd2536fee710d84871ff1",
+                "html_url": "https://github.com/aditya-singh597/GitHub_Analytics_Tool/commit/29b43d4e855ee46eb66fd2536fee710d84871ff1"
+            }
+        ]
+    },
+    {
+        "sha": "29b43d4e855ee46eb66fd2536fee710d84871ff1",
+        "node_id": "C_kwDOQ444ZdoAKDI5YjQzZDRlODU1ZWU0NmViNjZmZDI1MzZmZWU3MTBkODQ4NzFmZjE",
+        "commit": {
+            "author": {
+                "name": "Aditya Singh",
+                "email": "adityasinghparmar60@gmail.com",
+                "date": "2026-01-13T13:14:41Z"
+            },
+            "committer": {
+                "name": "Aditya Singh",
+                "email": "adityasinghparmar60@gmail.com",
+                "date": "2026-01-13T13:14:41Z"
+            },
+            "message": "Added API script",
+            "tree": {
+                "sha": "bac407070ceff2b8efcb38f6ca01b960255a11df",
+                "url": "https://api.github.com/repos/aditya-singh597/GitHub_Analytics_Tool/git/trees/bac407070ceff2b8efcb38f6ca01b960255a11df"
+            },
+            "url": "https://api.github.com/repos/aditya-singh597/GitHub_Analytics_Tool/git/commits/29b43d4e855ee46eb66fd2536fee710d84871ff1",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null,
+                "verified_at": null
+            }
+        },
+        "url": "https://api.github.com/repos/aditya-singh597/GitHub_Analytics_Tool/commits/29b43d4e855ee46eb66fd2536fee710d84871ff1",
+        "html_url": "https://github.com/aditya-singh597/GitHub_Analytics_Tool/commit/29b43d4e855ee46eb66fd2536fee710d84871ff1",
+        "comments_url": "https://api.github.com/repos/aditya-singh597/GitHub_Analytics_Tool/commits/29b43d4e855ee46eb66fd2536fee710d84871ff1/comments",
+        "author": null,
+        "committer": null,
+        "parents": [
+            {
+                "sha": "f7ecf03f588ca0697615e7d9c9f1e8c62e52510d",
+                "url": "https://api.github.com/repos/aditya-singh597/GitHub_Analytics_Tool/commits/f7ecf03f588ca0697615e7d9c9f1e8c62e52510d",
+                "html_url": "https://github.com/aditya-singh597/GitHub_Analytics_Tool/commit/f7ecf03f588ca0697615e7d9c9f1e8c62e52510d"
+            }
+        ]
+    },
+    {
+        "sha": "f7ecf03f588ca0697615e7d9c9f1e8c62e52510d",
+        "node_id": "C_kwDOQ444ZdoAKGY3ZWNmMDNmNTg4Y2EwNjk3NjE1ZTdkOWM5ZjFlOGM2MmU1MjUxMGQ",
+        "commit": {
+            "author": {
+                "name": "Aditya Singh",
+                "email": "adityasinghparmar60@gmail.com",
+                "date": "2026-01-13T13:09:52Z"
+            },
+            "committer": {
+                "name": "Aditya Singh",
+                "email": "adityasinghparmar60@gmail.com",
+                "date": "2026-01-13T13:09:52Z"
+            },
+            "message": "Added API script(token hidden)",
+            "tree": {
+                "sha": "c6b481188ce3814459fe1dc17129398533412fad",
+                "url": "https://api.github.com/repos/aditya-singh597/GitHub_Analytics_Tool/git/trees/c6b481188ce3814459fe1dc17129398533412fad"
+            },
+            "url": "https://api.github.com/repos/aditya-singh597/GitHub_Analytics_Tool/git/commits/f7ecf03f588ca0697615e7d9c9f1e8c62e52510d",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null,
+                "verified_at": null
+            }
+        },
+        "url": "https://api.github.com/repos/aditya-singh597/GitHub_Analytics_Tool/commits/f7ecf03f588ca0697615e7d9c9f1e8c62e52510d",
+        "html_url": "https://github.com/aditya-singh597/GitHub_Analytics_Tool/commit/f7ecf03f588ca0697615e7d9c9f1e8c62e52510d",
+        "comments_url": "https://api.github.com/repos/aditya-singh597/GitHub_Analytics_Tool/commits/f7ecf03f588ca0697615e7d9c9f1e8c62e52510d/comments",
+        "author": null,
+        "committer": null,
+        "parents": [
+            {
+                "sha": "0ff574ebb9081b359bfc1e0f582cebcd03f366fb",
+                "url": "https://api.github.com/repos/aditya-singh597/GitHub_Analytics_Tool/commits/0ff574ebb9081b359bfc1e0f582cebcd03f366fb",
+                "html_url": "https://github.com/aditya-singh597/GitHub_Analytics_Tool/commit/0ff574ebb9081b359bfc1e0f582cebcd03f366fb"
+            }
+        ]
+    },
+    {
+        "sha": "0ff574ebb9081b359bfc1e0f582cebcd03f366fb",
+        "node_id": "C_kwDOQ444ZdoAKDBmZjU3NGViYjkwODFiMzU5YmZjMWUwZjU4MmNlYmNkMDNmMzY2ZmI",
+        "commit": {
+            "author": {
+                "name": "Aditya Singh",
+                "email": "adityasinghparmar60@gmail.com",
+                "date": "2026-01-13T12:54:34Z"
+            },
+            "committer": {
+                "name": "Aditya Singh",
+                "email": "adityasinghparmar60@gmail.com",
+                "date": "2026-01-13T12:54:34Z"
+            },
+            "message": "API Calling module added to handle GitHub API requests and data processing.",
+            "tree": {
+                "sha": "33f67be1a08de14b87ee454c70e280e4c00c59a7",
+                "url": "https://api.github.com/repos/aditya-singh597/GitHub_Analytics_Tool/git/trees/33f67be1a08de14b87ee454c70e280e4c00c59a7"
+            },
+            "url": "https://api.github.com/repos/aditya-singh597/GitHub_Analytics_Tool/git/commits/0ff574ebb9081b359bfc1e0f582cebcd03f366fb",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null,
+                "verified_at": null
+            }
+        },
+        "url": "https://api.github.com/repos/aditya-singh597/GitHub_Analytics_Tool/commits/0ff574ebb9081b359bfc1e0f582cebcd03f366fb",
+        "html_url": "https://github.com/aditya-singh597/GitHub_Analytics_Tool/commit/0ff574ebb9081b359bfc1e0f582cebcd03f366fb",
+        "comments_url": "https://api.github.com/repos/aditya-singh597/GitHub_Analytics_Tool/commits/0ff574ebb9081b359bfc1e0f582cebcd03f366fb/comments",
+        "author": null,
+        "committer": null,
+        "parents": [
+            {
+                "sha": "3e8533584aab03fcadd8c2b37cec128dbbde1738",
+                "url": "https://api.github.com/repos/aditya-singh597/GitHub_Analytics_Tool/commits/3e8533584aab03fcadd8c2b37cec128dbbde1738",
+                "html_url": "https://github.com/aditya-singh597/GitHub_Analytics_Tool/commit/3e8533584aab03fcadd8c2b37cec128dbbde1738"
+            }
+        ]
+    },
+    {
+        "sha": "3e8533584aab03fcadd8c2b37cec128dbbde1738",
+        "node_id": "C_kwDOQ444ZdoAKDNlODUzMzU4NGFhYjAzZmNhZGQ4YzJiMzdjZWMxMjhkYmJkZTE3Mzg",
+        "commit": {
+            "author": {
+                "name": "aditya-singh597",
+                "email": "aditya6060singh@gmail.com",
+                "date": "2026-01-13T09:35:49Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2026-01-13T09:35:49Z"
+            },
+            "message": "Initial commit",
+            "tree": {
+                "sha": "113fb94f21ab31bedbc80ca79d386ca3ca3a899f",
+                "url": "https://api.github.com/repos/aditya-singh597/GitHub_Analytics_Tool/git/trees/113fb94f21ab31bedbc80ca79d386ca3ca3a899f"
+            },
+            "url": "https://api.github.com/repos/aditya-singh597/GitHub_Analytics_Tool/git/commits/3e8533584aab03fcadd8c2b37cec128dbbde1738",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpZhH1CRC1aQ7uu5UhlAAAyC8QAJZ/0Up73hOa1qv4TTCLYWi2\n2BcwW1YgDfoCIXqShepMxQU7V5kvaVSzbvijVJILn40suPb94LsJOfCJYNy+EHAY\nP53YxLRDVxIAKL35VQgghE8WMxynGMbX36nwdsZV4bGVhYJ6iIdfrhU0AqAvkVqK\nM+zuzh0s2xVN1V2AOi6vk5Ls0B/odnH4mMoy9FgLOHyen10iFb7amPBHCFsilLbq\nUXio6oMvPhJLPdVqKfueYX41VK4f6lmgDwmoUQvdP7A/fg6wECiLKLe2edJHXuXP\nQLIu4jbhKVdLNBCMMJTrbf/CsqLzqEg52HPcSYqxVkjLR4Y1c2UV0Usltl958Hyo\nLQNWHvPLG7B7wxrbAGKxx18nAGv5I3XspiC4Ur3g1sncHzYWjuHguuQ+I57cCpiO\nKo2N/c+gRmOEh6LtRMo4HLvXqqtiQd6rlfYC8mGwb/e7z+bsFGM3IG/80L3evl4Q\n/IZJsAyVdOCSpVnsdsAusZjvQpiSvapApdobfKgb8QB/j1ERFbOs44BTdvaxs+T8\nXxdtq/cbaqhof/FgwIAzkVX94BbR9jen+PzTVjXqHaFxM9+R0d6gVwv1h5PeDThv\nXsS3yuTmDWYo/flefSFdBgPa8wuXbR4Ft2SvoZtf9Whop6N0KN0aYVEOoVOl9Hp4\nHe2r0mhf6RDnIzAS7y5r\n=teC5\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree 113fb94f21ab31bedbc80ca79d386ca3ca3a899f\nauthor aditya-singh597 <aditya6060singh@gmail.com> 1768296949 +0530\ncommitter GitHub <noreply@github.com> 1768296949 +0530\n\nInitial commit",
+                "verified_at": "2026-01-13T09:35:50Z"
+            }
+        },
+        "url": "https://api.github.com/repos/aditya-singh597/GitHub_Analytics_Tool/commits/3e8533584aab03fcadd8c2b37cec128dbbde1738",
+        "html_url": "https://github.com/aditya-singh597/GitHub_Analytics_Tool/commit/3e8533584aab03fcadd8c2b37cec128dbbde1738",
+        "comments_url": "https://api.github.com/repos/aditya-singh597/GitHub_Analytics_Tool/commits/3e8533584aab03fcadd8c2b37cec128dbbde1738/comments",
+        "author": {
+            "login": "aditya-singh597",
+            "id": 211411408,
+            "node_id": "U_kgDODJnh0A",
+            "avatar_url": "https://avatars.githubusercontent.com/u/211411408?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/aditya-singh597",
+            "html_url": "https://github.com/aditya-singh597",
+            "followers_url": "https://api.github.com/users/aditya-singh597/followers",
+            "following_url": "https://api.github.com/users/aditya-singh597/following{/other_user}",
+            "gists_url": "https://api.github.com/users/aditya-singh597/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/aditya-singh597/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/aditya-singh597/subscriptions",
+            "organizations_url": "https://api.github.com/users/aditya-singh597/orgs",
+            "repos_url": "https://api.github.com/users/aditya-singh597/repos",
+            "events_url": "https://api.github.com/users/aditya-singh597/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/aditya-singh597/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+        },
+        "parents": []
+    }
+]
