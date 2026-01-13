@@ -1,6 +1,7 @@
 import requests
+import os
 
-Token="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"
+Token=os.getenv("GITHUB_TOKEN")
 repo="GitHub_Analytics_Tool"
 user="aditya-singh597"
 
